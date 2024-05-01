@@ -7,6 +7,10 @@
         <groupId>com.atguigu</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <packaging>pom</packaging>
+    <modules>
+        <module>realtime-dwd-base-log</module>
+    </modules>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>realtime-dwd</artifactId>
