@@ -38,5 +38,10 @@ public class Constant {
 
     public static final String TOPIC_DWD_USER_REGISTER = "dwd_user_register";
 
+    public static final String DORIS_FE_NODES = "hadoop102:7030";
+
+    public static final String DORIS_DATABASE = "gmall2023_realtime";
+
+    public static final int TWO_DAY_SECONDS = 60 * 60 * 24 ;
 
 }
